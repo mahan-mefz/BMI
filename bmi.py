@@ -22,5 +22,7 @@ class mbismart(mbi) :
 mbi = mbi()
 mbismart = mbismart()
 while True :
+
     mbi.mbi1()
     mbismart.smart()
+    print(mbi)
